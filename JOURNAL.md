@@ -87,3 +87,7 @@ Job applications reached 108 with two new submissions — HavenCard risk-control
 ## 2026-11-23
 
 Late on Nov 22 the two Trust Wallet applications were submitted from the user's own Chrome — Business Operations Associate and the non-engineering talent network — bringing total applications to 110. The Monday-morning sweep of TT3Labs and Job3 found no new posts to apply for (TT3Labs' 16 newest were all from Nov 22 and all screened out), so the total stays at 110. HackenProof stayed quiet (reputation 75); the 09:45 bounty watch found no new free programs, and the market-brief fallback shipped (BTC $61,005, ETH $1,713.44, SOL $70.57).
+
+## 2026-11-24
+
+Three email applications went out from bizanye66 after the user clarified the email pause had only ever covered Ju.com: Top.Market Community Operations (hr@top.market, contact John), ZOOMEX Partner Operation (luna.wu@zoomex.com, $3,000–3,500/month plus bonus), and uPhone eSIM Marketing Executive (jobs@uphone.com, $2,300–2,900/month, subject code word "Wayfinder") — total applications now 115. The Ju.com line was closed by the user after its email permanently bounced, and the HILLSIDE line was closed as a scam after Tracy Levin's role letter offered only 14 days of training before any salary talk. HackenProof stayed quiet (reputation 75); the 09:15 market-brief fallback shipped (BTC $61,612.77, ETH $1,721.34, SOL $72.55).
