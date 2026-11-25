@@ -91,3 +91,7 @@ Late on Nov 22 the two Trust Wallet applications were submitted from the user's 
 ## 2026-11-24
 
 Three email applications went out from bizanye66 after the user clarified the email pause had only ever covered Ju.com: Top.Market Community Operations (hr@top.market, contact John), ZOOMEX Partner Operation (luna.wu@zoomex.com, $3,000–3,500/month plus bonus), and uPhone eSIM Marketing Executive (jobs@uphone.com, $2,300–2,900/month, subject code word "Wayfinder") — total applications now 115. The Ju.com line was closed by the user after its email permanently bounced, and the HILLSIDE line was closed as a scam after Tracy Levin's role letter offered only 14 days of training before any salary talk. HackenProof stayed quiet (reputation 75); the 09:15 market-brief fallback shipped (BTC $61,612.77, ETH $1,721.34, SOL $72.55).
+
+## 2026-11-25
+
+The job hunt shifted to a volume push: the user set a 500-application target (125 at the start of the day, 375 to go), and the first sweep round added 7 new applications on Job3 — edgeX, DigiFinex, Deepcoin, Bitget, Brightline Labs, Sidekick and ZOOMEX — bringing the total to 136. Resume v7 was finalized and approved by the user ("use this one from now on"), with the AI section rewritten around delivered results instead of tool names, and the new Chinese resume was swapped in on TT3Labs and Job3; web3.career turned out to be paywalled behind Premium, and the user ruled out paying for membership. HackenProof stayed quiet (reputation 75) and BTC hovered around $59,500, so the call stays wait — no dip-buying, no leverage.
