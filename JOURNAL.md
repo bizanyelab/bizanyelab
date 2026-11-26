@@ -95,3 +95,7 @@ Three email applications went out from bizanye66 after the user clarified the em
 ## 2026-11-25
 
 The job hunt shifted to a volume push: the user set a 500-application target (125 at the start of the day, 375 to go), and the first sweep round added 7 new applications on Job3 — edgeX, DigiFinex, Deepcoin, Bitget, Brightline Labs, Sidekick and ZOOMEX — bringing the total to 136. Resume v7 was finalized and approved by the user ("use this one from now on"), with the AI section rewritten around delivered results instead of tool names, and the new Chinese resume was swapped in on TT3Labs and Job3; web3.career turned out to be paywalled behind Premium, and the user ruled out paying for membership. HackenProof stayed quiet (reputation 75) and BTC hovered around $59,500, so the call stays wait — no dip-buying, no leverage.
+
+## 2026-11-26
+
+The job hunt reached 152 applications after five sweep rounds overnight — the user's 500-application target is now 348 away — but the boards are swept clean: deep scans of 13 platforms on Nov 26 found 0 new roles to apply for, so the hunt shifts to daily new-post increments. The morning bounty watch found a real opening: HackenProof's three Starknet programs dropped their reputation thresholds (150/100 → none), so the user's 75-reputation account can now submit, with Critical up to $250,000 and High at $10,000; Beanstalk delisted from Immunefi. HackenProof stayed quiet (reputation 75) and the 09:15 market-brief fallback shipped (BTC $60,644, ETH $1,700.20, SOL $70.96).
