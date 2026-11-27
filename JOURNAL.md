@@ -99,3 +99,7 @@ The job hunt shifted to a volume push: the user set a 500-application target (12
 ## 2026-11-26
 
 The job hunt reached 152 applications after five sweep rounds overnight — the user's 500-application target is now 348 away — but the boards are swept clean: deep scans of 13 platforms on Nov 26 found 0 new roles to apply for, so the hunt shifts to daily new-post increments. The morning bounty watch found a real opening: HackenProof's three Starknet programs dropped their reputation thresholds (150/100 → none), so the user's 75-reputation account can now submit, with Critical up to $250,000 and High at $10,000; Beanstalk delisted from Immunefi. HackenProof stayed quiet (reputation 75) and the 09:15 market-brief fallback shipped (BTC $60,644, ETH $1,700.20, SOL $70.96).
+
+## 2026-11-27
+
+Trust Wallet closed the non-engineering talent-network line with a rejection at 13:37 (via Ashby), while the Business Operations Associate application from the same round is still awaiting a reply. Two new roles were screened out on hard requirements — Yodo1's Office Administrator post (fluent spoken English, Beijing office duties) and ChangeNOW's Account Manager (English C1, business-development team). HackenProof stayed quiet (reputation 75) and the 09:45 bounty watch found no new free programs, only ShapeShift delisting from HackenProof.
